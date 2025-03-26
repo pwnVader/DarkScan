@@ -3,6 +3,8 @@
 Bienvenido a **DarkScanner**, una herramienta para detectar dispositivos activos en una red y generar un reporte de manera sencilla de tu red. 🚀  
 Desarrollada por **pwnVader (Jesus Romero)**, esta utilidad usa **Nmap** para realizar escaneos rápidos y generar reportes detallados.
 
+![DarkScan Running](./screenshot.png)
+
 ---
 
 ## 🎯 Características
