@@ -24,3 +24,11 @@ Este script requiere `python3` y `nmap`. Para instalar los paquetes necesarios:
 sudo apt update && sudo apt install -y nmap python3-pip
 pip3 install termcolor
 
+```
+Clonar el repositorio:
+
+```bash
+
+git clone https://github.com/pwnVader/DarkScan.git
+cd DarkScan
+sudo python3 darkscan.py
